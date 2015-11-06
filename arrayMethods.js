@@ -20,7 +20,7 @@ var bulkNumbers = [5, 5, 6, 6, 9, 9, 2, 2, 2, 5, 2];
 var nameArray = [];
 nameArray.push('Jonathan', 'AhNee');
 
-// var genericNumberArray = [];
+// var genericNumberArray = [];'Pizza', 'Sneaker', 'Sapphire', 'Baby', 'Jeans', 'Soda Can', 'Boat'
 genericNumberArray.push(6,7,8,9,10);
 
 // var colors = ['Blue', 'Red', 'Yellow', 'Charlie'];
